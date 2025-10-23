@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">xmm3</string>
+    <string name="text_name">Имя: Мария</string>
+    <string name="text_age">Возраст: 18</string>
+    <string name="text_spec">Специализация: Веб-разработчик</string>
+    <string name="text_photo">Фото</string>
+    <string name="text_projects">Проекты</string>
+    <string name="text_achive">Достижения</string>
+
+    <string name="about_me_title">О себе</string>
+    <string name="about_me_description">Занимаюсь разработкой приложений более 2 лет. Увлекаюсь новыми технологиями и изучаю современные подходы к программированию.</string>
+</resources>
